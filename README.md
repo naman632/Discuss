@@ -10,8 +10,7 @@ Certain functionalities such as search and comments are also underway. Commentin
 
 ## Contributing
 
-Both developers and non-developers are invited to contribute to this project. 
-You can clone this repository and add a PR. If genuine, the changes would be approved and added to the master branch.
+Both developers and non-developers are invited to contribute to this project by adding a PR. If genuine, the changes would be approved and added to the master branch.
 
 ### For Adding Articles
 
