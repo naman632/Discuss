@@ -6,7 +6,7 @@ Discuss is a platform made to help out freshers @ IIIT-Hyderabad start out in co
 
 We will be posting four kinds of articles on this page:
 
-* The Hint Page: This page will be active for each problem when each OJ assignment is put up. Certain hints and possible testcases will be uploaded here.
+* The Testcases Page: This page will be active for each problem when each OJ assignment is put up. Possible testcases will be uploaded here.
 
 * The Editorial Page: After each OJ ends, the Hints page for each problem will change to an Editorial page which would contain a proper analysis and solution of each problem.
 
