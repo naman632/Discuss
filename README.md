@@ -17,6 +17,6 @@ You can clone this repository and add a PR. If genuine, the changes would be app
 
 single.html is a template file for all articles. Make a duplicate of the same, make your changes and send a PR. Make sure not to make any changes to files other than the duplicate of single.html created by you. Hyperlinking and other changes will be taken care of by us. If any other changes are made to other files, the PR may not be accepted.
 
-##License
+## License
 
 [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
