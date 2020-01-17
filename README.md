@@ -4,9 +4,7 @@ Discuss is a platform made to help out freshers @ IIIT-Hyderabad start out in co
 
 ## Website Functionality
 
-We will be posting four kinds of articles on this page:
-
-* The Testcases Page: This page will be active for each problem when each OJ assignment is put up. Possible testcases will be uploaded here.
+We will be posting three kinds of articles on this page:
 
 * The Editorial Page: After each OJ ends, the Hints page for each problem will change to an Editorial page which would contain a proper analysis and solution of each problem.
 
@@ -28,7 +26,3 @@ Both developers and non-developers are invited to contribute to this project by 
 ### For Adding Articles
 
 single.html is a template file for all articles. Make a duplicate of the same, make your changes and send a PR. Make sure not to make any changes to files other than the duplicate of single.html created by you. Hyperlinking and other changes will be taken care of by us. If any other changes are made to other files, the PR may not be accepted.
-
-## License
-
-[MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
